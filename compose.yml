@@ -4,7 +4,7 @@ services:
       context: ./emulator
       dockerfile: Dockerfile
       args:
-        - FIREBASE_VERSION=13.3.0
+        - FIREBASE_VERSION=13.3.3
     stop_grace_period: 1m
     environment:
       FIREBASE_AUTH_EMULATOR_HOST: 'localhost:9099'
