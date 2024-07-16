@@ -2,6 +2,12 @@
 
 The repo contains a starting point for starting your own Firebase Emulator Docker instance.
 
+## Quickstart
+
+```
+docker compose up --build
+```
+
 ## Configuration
 
 ### Firebase Version
