@@ -21,3 +21,8 @@ You can change your Firebase configuration in `firebase/firebase.json`
 ## Default Page Preview Links
 
 You can access the emulator dashboard at `http://localhost:4000`
+
+## References
+
+1. [Docker: A Guide to Local Development and Testing](https://medium.com/@jens.skott_65388/simplifying-firebase-emulation-with-docker-a-guide-to-local-development-and-testing-0c3c33fd92c7)
+2. [docker-firebase-emulator](https://github.com/thoughtgears/docker-firebase-emulator)
